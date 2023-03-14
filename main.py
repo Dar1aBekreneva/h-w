@@ -4,8 +4,7 @@ def q0():
     n = []
     for i in range(m):
         n.append(input())
-    w = ' '.join(n)
-    print(w)
+    print(' '.join(w))
 
 def q1():
     n = []

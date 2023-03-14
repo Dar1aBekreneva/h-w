@@ -1,3 +1,4 @@
+"lab3"
 def q0():
     m = int(input())
     n = []

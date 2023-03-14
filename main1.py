@@ -1,3 +1,4 @@
+#lab3.1
 from random import randint
 k = 0
 while k != 3:

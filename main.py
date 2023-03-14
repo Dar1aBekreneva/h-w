@@ -1,4 +1,4 @@
-"lab3"
+"laba3"
 def q0():
     m = int(input())
     n = []
